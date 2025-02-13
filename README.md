@@ -46,5 +46,5 @@
 - *React Router DOM* for navigation
 
 ### Skills
-- Proficiency in *JavaScript, **React, and **CSS*.
+- Proficiency in JavaScript, React, and CSS.
 - Basic understanding of *REST APIs*.
